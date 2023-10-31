@@ -13,3 +13,12 @@ In this project, allows you to install and import the required library and algor
                 pip install - requirements.txt
                 import library
 
+###  Model testing with the help of ML Alogrithm
+
+          Logistic Regression
+          Decision Tree Classifier
+          Gradient Boosting Classifier
+          Random forest Classifier
+
+          
+
