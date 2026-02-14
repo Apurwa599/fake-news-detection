@@ -86,6 +86,11 @@ This project demonstrates the use of Machine Learning and NLP techniques
 to detect fake news effectively. It helps understand text classification
 and real-world data challenges.
 
+## Acknowledgements
+This project was developed as part of an internship and for learning
+purposes using open-source datasets and tools.
+
+
 Author: Apurwa Khare  
         MCA (AIML)
 
