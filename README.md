@@ -1,21 +1,31 @@
-# fake-news-detection
-This is an internship project, based on'Python Libraries' or'ML Alogrithm' and also using natural language processing techniques to detect fake news. 
-In our modern era  where the internet is global, everyone relies on various online resources for news.
-Along with the increase in the use of social media platforms like Facebook, Twitter, etc. News spread rapidly among millions of users within a very short span of time. 
-The spread of fake news has far-reaching consequences like the creation of biased opinions.
+# Fake News Detection using Machine Learning and NLP
+## Project Overview
+This project focuses on detecting fake news using Machine Learning and Natural Language Processing (NLP) techniques. The system classifies news articles as fake or real to reduce the impact of misinformation.
 
-# Installation
-In this project, allows you to install and import the required library and algorithms.
+## Problem Statement
+Fake news spreads rapidly through online platforms and social media. It can mislead people and create biased opinions. This project aims to
+identify fake news automatically using ML algorithms.
 
-                pip install - requirements.txt
-                import library
+## Dataset Description
+This project uses a Fake News Dataset obtained from Kaggle. 
+The dataset contains news articles with labels indicating whether the news is fake or real. 
+It is suitable for text classification using NLP techniques.
 
-###  Model testing with the help of ML Alogrithm
+- Source: Kaggle Fake News Dataset
+- Columns:
+  - title: News headline
+  - text: Main news content
+  - label: Class label (0 = Fake, 1 = Real)
 
-          Logistic Regression
-          Decision Tree Classifier
-          Gradient Boosting Classifier
-          Random forest Classifier
-
+## Technologies Used
+- Python
+- Machine Learning
+- Natural Language Processing (NLP)
+  
+- ## Libraries Used
+- NumPy
+- Pandas
+- Scikit-learn
+- NLTK
           
 
