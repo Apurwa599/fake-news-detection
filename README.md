@@ -27,5 +27,29 @@ It is suitable for text classification using NLP techniques.
 - Pandas
 - Scikit-learn
 - NLTK
-          
+
+## Project Workflow
+1. Data Collection from Kaggle dataset
+2. Data Cleaning and Preprocessing
+3. Text Vectorization using TF-IDF
+4. Splitting dataset into training and testing sets
+5. Training Machine Learning models
+6. Testing models on unseen data
+7. Evaluating performance using accuracy and other metrics
+8. Selecting the best performing model
+
+## Text Preprocessing
+- Lowercasing
+- Removing punctuation
+- Stopword removal
+- Tokenization
+- Lemmatization
+
+## Machine Learning Models Used
+- Logistic Regression
+- Decision Tree Classifier
+- Random Forest Classifier
+- Gradient Boosting Classifier
+
+
 
