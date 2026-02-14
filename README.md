@@ -57,16 +57,19 @@ It is suitable for text classification using NLP techniques.
 - Recall
 - F1-score
 - Confusion Matrix
-
+- 
 ## Installation & Execution
 
 1. Clone the repository:
-   git clone https://github.com/your-username/fake-news-detection.git
+   git clone https://github.com/Apurwa599/fake-news-detection.git
 
-2. Install required libraries:
+2. Navigate to the project directory:
+   cd fake-news-detection
+
+3. Install required libraries:
    pip install -r requirements.txt
 
-3. Run the notebook:
+4. Run the notebook:
    jupyter notebook fake-news-detection.ipynb
 
 
