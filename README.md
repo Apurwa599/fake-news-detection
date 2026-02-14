@@ -51,5 +51,22 @@ It is suitable for text classification using NLP techniques.
 - Random Forest Classifier
 - Gradient Boosting Classifier
 
+## Evaluation Metrics
+- Accuracy
+- Precision
+- Recall
+- F1-score
+- Confusion Matrix
+
+## Installation & Execution
+
+1. Clone the repository:
+   git clone https://github.com/your-username/fake-news-detection.git
+
+2. Install required libraries:
+   pip install -r requirements.txt
+
+3. Run the notebook:
+   jupyter notebook fake-news-detection.ipynb
 
 
