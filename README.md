@@ -57,7 +57,10 @@ It is suitable for text classification using NLP techniques.
 - Recall
 - F1-score
 - Confusion Matrix
-- 
+
+#Results:
+Among all the models, Random Forest Classifier achieved the highest accuracy and provided better performance compared to other models.
+
 ## Installation & Execution
 
 1. Clone the repository:
@@ -71,5 +74,20 @@ It is suitable for text classification using NLP techniques.
 
 4. Run the notebook:
    jupyter notebook fake-news-detection.ipynb
+
+## Future Improvements:
+- Use Deep Learning models like LSTM or BERT
+- Deploy the model using Flask or Streamlit
+- Improve accuracy with hyperparameter tuning
+- Add real-time news prediction
+
+Conclusion:
+This project demonstrates the use of Machine Learning and NLP techniques
+to detect fake news effectively. It helps understand text classification
+and real-world data challenges.
+
+Author: Apurwa Khare  
+        MCA (AIML)
+
 
 
