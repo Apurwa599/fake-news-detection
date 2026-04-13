@@ -1,12 +1,12 @@
 ## Fake News Detection using Machine Learning and NLP
-## Project Overview
+### Project Overview
 This project focuses on detecting fake news using Machine Learning and Natural Language Processing (NLP) techniques. The system classifies news articles as fake or real to reduce the impact of misinformation.
 
-## Problem Statement
+### Problem Statement
 Fake news spreads rapidly through online platforms and social media. It can mislead people and create biased opinions. This project aims to
 identify fake news automatically using ML algorithms.
 
-## Dataset Description
+### Dataset Description
 This project uses a Fake News Dataset obtained from Kaggle. 
 The dataset contains news articles with labels indicating whether the news is fake or real. 
 It is suitable for text classification using NLP techniques.
@@ -17,18 +17,18 @@ It is suitable for text classification using NLP techniques.
   - text: Main news content
   - label: Class label (0 = Fake, 1 = Real)
 
-## Technologies Used
+### Technologies Used
 - Python
 - Machine Learning
 - Natural Language Processing (NLP)
   
-- ## Libraries Used
+- ### Libraries Used
 - NumPy
 - Pandas
 - Scikit-learn
 - NLTK
 
-## Project Workflow
+### Project Workflow
 1. Data Collection from Kaggle dataset
 2. Data Cleaning and Preprocessing
 3. Text Vectorization using TF-IDF
@@ -38,30 +38,30 @@ It is suitable for text classification using NLP techniques.
 7. Evaluating performance using accuracy and other metrics
 8. Selecting the best performing model
 
-## Text Preprocessing
+### Text Preprocessing
 - Lowercasing
 - Removing punctuation
 - Stopword removal
 - Tokenization
 - Lemmatization
 
-## Machine Learning Models Used
+### Machine Learning Models Used
 - Logistic Regression
 - Decision Tree Classifier
 - Random Forest Classifier
 - Gradient Boosting Classifier
 
-## Evaluation Metrics
+### Evaluation Metrics
 - Accuracy
 - Precision
 - Recall
 - F1-score
 - Confusion Matrix
 
-#Results:
+### Results:
 Among all the models, Random Forest Classifier achieved the highest accuracy and provided better performance compared to other models.
 
-## Installation & Execution
+### Installation & Execution
 
 1. Clone the repository:
    git clone https://github.com/Apurwa599/fake-news-detection.git
@@ -75,7 +75,7 @@ Among all the models, Random Forest Classifier achieved the highest accuracy and
 4. Run the notebook:
    jupyter notebook fake-news-detection.ipynb
 
-## Future Improvements:
+### Future Improvements:
 - Use Deep Learning models like LSTM or BERT
 - Deploy the model using Flask or Streamlit
 - Improve accuracy with hyperparameter tuning
@@ -86,13 +86,14 @@ This project demonstrates the use of Machine Learning and NLP techniques
 to detect fake news effectively. It helps understand text classification
 and real-world data challenges.
 
-## Acknowledgements
+### Acknowledgements
 This project was developed as part of an internship and for learning
 purposes using open-source datasets and tools.
 
 
-Author: Apurwa Khare  
-        MCA (AIML)
+### Author: 
+Apurwa Khare  
+MCA (AIML)
 
 
 
