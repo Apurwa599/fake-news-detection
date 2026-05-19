@@ -64,8 +64,8 @@ Among all the models, Random Forest Classifier achieved the highest accuracy and
 ### Future Improvements:
 - We can Use Deep Learning models like LSTM or BERT
 - We can Deploy the model using Flask or Streamlit
-- Improve accuracy with hyperparameter tuning
-- Add real-time news prediction
+- We will improve accuracy with hyperparameter tuning
+- We can add real-time news prediction
 
 Conclusion:
 This project demonstrates the use of Machine Learning and NLP techniques
