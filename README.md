@@ -61,20 +61,6 @@ It is suitable for text classification using NLP techniques.
 ### Results:
 Among all the models, Random Forest Classifier achieved the highest accuracy and provided better performance compared to other models.
 
-### Installation & Execution
-
-1. Clone the repository:
-   git clone https://github.com/Apurwa599/fake-news-detection.git
-
-2. Navigate to the project directory:
-   cd fake-news-detection
-
-3. Install required libraries:
-   pip install -r requirements.txt
-
-4. Run the notebook:
-   jupyter notebook fake-news-detection.ipynb
-
 ### Future Improvements:
 - We can Use Deep Learning models like LSTM or BERT
 - We can Deploy the model using Flask or Streamlit
