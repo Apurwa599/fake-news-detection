@@ -62,8 +62,8 @@ It is suitable for text classification using NLP techniques.
 Among all the models, Random Forest Classifier achieved the highest accuracy and provided better performance compared to other models.
 
 ### Future Improvements:
-- We can Use Deep Learning models like LSTM or BERT
-- We can Deploy the model using Flask or Streamlit
+- We can use Deep Learning models like LSTM or BERT
+- We can deploy the model using Flask or Streamlit
 - We will improve accuracy with hyperparameter tuning
 - We can add real-time news prediction
 
