@@ -76,8 +76,8 @@ Among all the models, Random Forest Classifier achieved the highest accuracy and
    jupyter notebook fake-news-detection.ipynb
 
 ### Future Improvements:
-- Use Deep Learning models like LSTM or BERT
-- Deploy the model using Flask or Streamlit
+- We can Use Deep Learning models like LSTM or BERT
+- We can Deploy the model using Flask or Streamlit
 - Improve accuracy with hyperparameter tuning
 - Add real-time news prediction
 
